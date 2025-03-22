@@ -1,5 +1,7 @@
 # EX-1-Cloud-Account-Setup-and-Services-Overview
-
+## Date : 09-03-2025
+## Reg no: 212223040071 
+## Name : Jackson Raj A
 ## Aim:
 To create an AWS cloud account and explore its various services.
 
